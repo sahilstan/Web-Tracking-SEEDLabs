@@ -28,4 +28,4 @@
 
 	6. Real world tracking
 
-	7. Countermeasures.
+	7. Countermeasures
